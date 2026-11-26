@@ -54,5 +54,5 @@ I am always eager to learn new technologies, improve my technical skills, and co
 
 ---
 ## 🤝 Connect With Me
-- GitHub: https://github.com/rashidisaidi780/MAHFUDHI/
+- GitHub: https://github.com/rashidisaidi780/
 - Email: rashidsaidi780@gmail.com
